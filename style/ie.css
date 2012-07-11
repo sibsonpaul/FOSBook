@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.content-menu {
+width: 20% !important;
+left: 4%;	
+	}
+.main-content {
+	margin-left:25% !important;
+	}	
+	
+#sibson-homeheader {
+
+	padding: 2px 2px 2px 2px !important;
+
+}
+
+span.profileBadge span.name {
+
+width: 94% !important;
+font-size: 22px;		
+	
+}
+
+a.badge span.name {
+
+font-size: 13px !important;	
+display:block !important;
+left: 10px !important;
+position:absolute !important;
+
+	
+}
+	
+span.profileBadge {
+	width:auto;
+	height:auto;
+min-width: 100px;
+min-height: 150px;
+}
+	
+	

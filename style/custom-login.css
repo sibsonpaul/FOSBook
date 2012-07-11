@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {background:url(images/paper.jpg) !important; height:100% !important;}
+.login h1 a {background:url(../style/images/logo.png) no-repeat 50% 50% !important; width:100%}
+#backtoblog {display:none;}
+
